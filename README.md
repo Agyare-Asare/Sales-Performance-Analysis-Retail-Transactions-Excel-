@@ -22,7 +22,5 @@ These findings show that revenue growth is less about chasing volume and more ab
 Develop targeted campaigns and loyalty offers for customers aged 46–55.
 Focus inventory planning and promotions around the top revenue-generating product categories.
 Use sales trends to better time promotions and manage stock during peak periods.
-## Dashboard Interactionn
-https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-Excel-/blob/main/Retail%20Analysis.png?raw=true
 ## Tools Used
 Microsoft Excel for data cleaning, analysis, and dashboard creation
