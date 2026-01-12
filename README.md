@@ -23,6 +23,6 @@ Develop targeted campaigns and loyalty offers for customers aged 46–55.
 Focus inventory planning and promotions around the top revenue-generating product categories.
 Use sales trends to better time promotions and manage stock during peak periods.
 ## Dashboard Interactionn
-"C:\Users\Quaku\Desktop\Data Analytics Project\Retail Analysis.png"
+
 ## Tools Used
 Microsoft Excel for data cleaning, analysis, and dashboard creation
