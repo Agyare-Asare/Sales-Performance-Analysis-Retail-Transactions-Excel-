@@ -5,6 +5,7 @@ https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-E
 ## The Story Behind the Analysis
 This project started with a simple question: who is really driving sales in this retail business?
 Using transaction-level data, I wanted to move beyond totals and understand how customer behavior, product choices, and time all come together to influence revenue.
+
 Dashboard Interaction: https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-Excel-/blob/main/Retail%20Analysis.png
 ## The Data
 The dataset captures individual retail transactions, including when purchases happened, what was bought, and basic customer demographics such as age and gender. Each transaction includes a Total Amount, which represents the actual revenue generated and is used throughout the analysis.
