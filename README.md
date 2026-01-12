@@ -1,5 +1,5 @@
 # Sales Performance Analysis – Retail Transactions (Excel)
-Data source
+# Data source
 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download&select=retail_sales_dataset.csv
 The Story Behind the Analysis
 This project started with a simple question: who is really driving sales in this retail business?
