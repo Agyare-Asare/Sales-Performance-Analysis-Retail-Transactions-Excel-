@@ -1,4 +1,4 @@
-# Sales Performance Analysis – Retail Transactions (Excel)
+<img width="1920" height="1080" alt="Retail Analysis" src="https://github.com/user-attachments/assets/a058a97e-b60b-45be-a88a-2ce7ceca4adb" /># Sales Performance Analysis – Retail Transactions (Excel)
 ## Data source
 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download&select=retail_sales_dataset.csv
 https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-Excel-/blob/main/retail_sales_Analysis.xlsx
@@ -7,6 +7,7 @@ This project started with a simple question: who is really driving sales in this
 Using transaction-level data, I wanted to move beyond totals and understand how customer behavior, product choices, and time all come together to influence revenue.
 
 Dashboard Interaction: https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-Excel-/blob/main/Retail%20Analysis.png
+<img width="1920" height="1080" alt="Retail Analysis" src="https://github.com/user-attachments/assets/96396772-90b4-4894-85e5-429f02620503" />
 ## The Data
 The dataset captures individual retail transactions, including when purchases happened, what was bought, and basic customer demographics such as age and gender. Each transaction includes a Total Amount, which represents the actual revenue generated and is used throughout the analysis.
 ## How I Approached the Problem
