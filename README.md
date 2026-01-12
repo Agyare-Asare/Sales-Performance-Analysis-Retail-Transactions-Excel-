@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Retail Analysis" src="https://github.com/user-attachments/assets/a058a97e-b60b-45be-a88a-2ce7ceca4adb" /># Sales Performance Analysis – Retail Transactions (Excel)
 ## Data source
 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download&select=retail_sales_dataset.csv
 https://github.com/Agyare-Asare/Sales-Performance-Analysis-Retail-Transactions-Excel-/blob/main/retail_sales_Analysis.xlsx
